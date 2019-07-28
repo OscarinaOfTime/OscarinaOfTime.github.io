@@ -1,0 +1,98 @@
+body{
+    background-color: gray;
+    color: #777;
+    background: #777;
+  
+}
+
+#topheader{
+    background-color: #ebebeb;
+    width: 900px;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+    vertical-align: middle;
+    color: gray;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 10px;
+}
+
+
+
+nav{
+    background-color: #ebebeb;
+    width: 900px;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+    vertical-align: middle;
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+section{
+    background-color: #ebebeb;
+    width: 495px;
+    height: 300px;
+    line-height: 75px;
+    color: gray;
+    margin-left: 310px;
+    float: left;
+    padding-right: 5px;
+    text-align: center;
+}
+
+p{
+background-color: white;
+text-align: center;
+width: auto;
+}
+
+article{
+background-color: gray;
+text-align: center;
+}
+
+#article{
+ color: white;
+ height: 100px;
+}
+
+h1 {
+    font-size: 2em;
+    background-color: white;
+    width: auto;
+    margin: 0px;
+    display: unset;
+    text-align: center;
+}
+
+
+aside {
+    background: #ebebeb;
+    width: 400px;
+    height: 300px;
+    line-height: 75px;
+    margin-right: 290px;
+    text-align: center;
+    float: right;
+   
+}
+
+
+
+footer{
+    clear: both;
+    background-color: #ebebeb;
+    width: 900px;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+    vertical-align: middle;
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
